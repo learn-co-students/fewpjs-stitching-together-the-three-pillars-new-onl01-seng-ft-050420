@@ -34,3 +34,12 @@ article.media-post > footer {
 article.media-post > footer ul {
   list-style-type: none;
 }
+
+.like-glyph {
+  transition: .3s;
+}
+
+.like-glyph:hover{
+  cursor: pointer;
+  font-size: 150%;
+}
